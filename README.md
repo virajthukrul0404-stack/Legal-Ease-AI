@@ -102,12 +102,12 @@ VITE_API_BASE=https://your-backend-url
 
 ## Key Features
 
-- Business analysis dashboard
-- Past reports and report comparison
-- Compliance timeline and apply assistant
-- Workspace task tracker
-- Document vault with verification notes
-- PDF and premium Excel export
+- **Business analysis dashboard**: Turn a founder idea into a structured compliance snapshot with clear legal direction.
+- **Past reports and comparison tools**: Revisit earlier analyses and compare business scenarios side by side.
+- **Compliance timeline and apply assistant**: Break legal follow-through into actionable next steps and licensing tasks.
+- **Workspace task tracker**: Keep compliance work organized with operational task visibility in one place.
+- **Document vault with verification notes**: Upload files, review them, and store verification feedback centrally.
+- **PDF and premium Excel exports**: Generate polished reports that are easy to share, review, and act on.
 
 ## Disclaimer
 
