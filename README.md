@@ -88,11 +88,6 @@ GENERATED_REPORTS_DIR=/var/data/generated_reports
 DOCUMENT_UPLOADS_DIR=/var/data/uploaded_documents
 ```
 
-If you deploy on Render with SQLite and file uploads enabled, use a persistent disk. The included `render.yaml` is configured for that.
-
-### Frontend
-
-Deploy the Vite frontend to Vercel or Netlify.
 
 Required frontend environment variable:
 
